@@ -32,7 +32,7 @@ The API provides CRUD operations (Create, Read, Update, Delete) for the followin
 
 ## 🧪 Sample Operation
 
-For example, adding a student is done with a simple `POST` request:
+For example, adding a course is done with a simple `POST` request:
 
 ```json
 POST /api/courses
